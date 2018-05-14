@@ -19,11 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.scss",
-        "src/assets/startbootstrap-bare-gh-pages/vendor/bootstrap/css/bootstrap.css",
-        "src/assets/startbootstrap-bare-gh-pages/vendor/bootstrap/css/bootstrap.min.css",
-        "src/assets/startbootstrap-bare-gh-pages/vendor/bootstrap/css/bootstrap.css.map",
-        "src/assets/startbootstrap-bare-gh-pages/vendor/bootstrap/css/bootstrap.min.css.map"
+        "styles.scss"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
